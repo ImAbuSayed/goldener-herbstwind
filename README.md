@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/goldener-herbstwind/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Goldener Herbstwind](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/goldener-herbstwind/) |
+| **Get License** | [Request Licensing for Goldener Herbstwind](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/goldener-herbstwind/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d169909aa604bb6340caf204d93cb396ade77ac9e7bc6b8662c4506c845a5195` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
