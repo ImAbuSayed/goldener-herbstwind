@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/goldener-herbstwind/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Goldener Herbstwind](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/goldener-herbstwind/) |
+| **Get License** | [Official Music Licensing for Goldener Herbstwind](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/goldener-herbstwind/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Wir cruisen durch die Nacht, der Motor flüstert deinen Namen.. ja..
+> Dein Blick so kalt wie Ice, doch du setzt mich in Flammen.. wouh..
+> Die City-Lights zieh'n vorbei, ich will nur dich spür'n
+> Steig in den Wagen, Babe, lass uns die Regeln ignorier'n
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
